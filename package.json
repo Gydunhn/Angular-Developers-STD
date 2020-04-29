@@ -51,12 +51,17 @@
         "Debugger for Chrome",
         "Essentials",
         "Read Time",
+        "Peacock",
         "Sonar",
         "SonarLint",
+        "ngRx",
+        "RxJS",
+        "Flex",
+        "Flex Layout",
         "Developer",
         "Gydunhn"
     ],
-    "version": "0.0.0",
+    "version": "0.0.1",
     "publisher": "Gydunhn",
     "engines": {
         "vscode": "^1.44.0"
@@ -70,11 +75,8 @@
         "Gydunhn.web-design-essentials",
         "Gydunhn.angular-essentials",
         "SonarSource.sonarlint-vscode",
-
         "Mikael.Angular-BeastCode",
         "johnpapa.vscode-peacock",
-        
-
         "Gydunhn.vsc-essentials-themes"
     ]
 }
