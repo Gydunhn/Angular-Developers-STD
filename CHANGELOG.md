@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2024-01-08
+
 ### Added (They are added thanks to a restructuring of an extension package that belongs to this project.)
 
 * Nx Console, nrwl.
@@ -27,5 +29,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/Angular-Developers-STD/tree/develop
+[0.1.0]: https://github.com/Gydunhn/Angular-Developers-STD/releases/tag/0.1.0
 [0.0.2]: https://github.com/Gydunhn/Angular-Developers-STD/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/Angular-Developers-STD/releases/tag/0.0.1
