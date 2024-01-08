@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added (They are added thanks to a restructuring of an extension package that belongs to this project.)
+
+* Nx Console, nrwl.
+* Prettier - Code formatter, prettier.io.
+* mysql-inline-decorator, odubuc.
+
 ## [0.0.2] - 2020-10-06
 
 ### Changed
