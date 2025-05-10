@@ -14,7 +14,6 @@ Angular Material is the official Material Design component library for Angular. 
 
 - Follow Material Design principles and guidelines
 - Ensure consistent behavior across devices and screen sizes
-- Include built-in accessibility features (ARIA, keyboard navigation)
 - Support customizable theming systems
 - Integrate seamlessly with Angular's reactive forms and animations
 
