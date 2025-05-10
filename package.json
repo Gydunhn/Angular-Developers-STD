@@ -4,7 +4,7 @@
   "description": "The Essentials Extensions for Angular+Material Developments.",
   "icon": "img/essentials.png",
   "galleryBanner": {
-    "color": "#53595e",
+    "color": "#000000",
     "theme": "dark"
   },
   "license": "LICENSE.md",
@@ -63,7 +63,7 @@
     "Navigation",
     "Gydunhn"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
