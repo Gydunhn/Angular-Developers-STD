@@ -2,7 +2,7 @@
   "name": "angular-developer-std",
   "displayName": "Angular Material Essentials",
   "description": "The Essentials Extensions for Angular+Material Developments.",
-  "icon": "img/angularessentials.png",
+  "icon": "img/essentials.png",
   "galleryBanner": {
     "color": "#53595e",
     "theme": "dark"
