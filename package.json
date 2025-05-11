@@ -63,7 +63,7 @@
     "Navigation",
     "Gydunhn"
   ],
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
